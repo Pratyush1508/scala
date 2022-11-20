@@ -6,3 +6,4 @@
 [diff "jar"]
   textconv = tools/jar-dump
   cachetextconv = true
+  <edit>
